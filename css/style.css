@@ -72,6 +72,7 @@
     justify-content: space-around;
 }
 
+
     /* Navigation styling */
     .nav-branding{
         font-size: 1.5rem;
@@ -99,7 +100,7 @@
                 display: inline-block;
                 margin: 4px 2px;
                 cursor: pointer;
-                border-radius: 16px;
+                height: 100%;
               }
 
     .container-sdevice{
@@ -141,9 +142,6 @@
     padding-top: 5%;
 
 }
-
-
-
     .per-info-1, .per-info-2{
         margin-top: 10%;
     }
